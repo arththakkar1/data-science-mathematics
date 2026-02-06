@@ -5,7 +5,7 @@ This repository contains essential mathematical concepts and practical examples 
 ## Topics Covered
 
 - **Statistics:** Mean, median, mode, range, variance, standard deviation, logarithm, zscore, probability, distributions
-- **Linear Algebra:** Vectors, matrices, eigenvalues, eigenvectors
+- **Linear Algebra:** Vectors, matrices, cosine similarity, eigenvalues, eigenvectors
 - **Calculus:** Differentiation, integration, optimization
 - **Probability Theory:** Random variables, probability distributions, Bayes' theorem
 - **Applied Examples:** Real-world datasets, Python notebooks, visualizations
