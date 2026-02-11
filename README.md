@@ -12,7 +12,7 @@ This repository contains essential mathematical concepts and practical examples 
 
 ## How to Use
 
-- Explore the `Statistics` folder for Jupyter notebooks on statistical concepts.
+- Explore the `Statistics` folders for Jupyter notebooks on statistical concepts.
 - Use the examples to understand how mathematics is applied in data science workflows.
 - Run the notebooks interactively to experiment with data and mathematical techniques.
 
